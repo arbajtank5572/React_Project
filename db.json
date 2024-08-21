@@ -1,0 +1,576 @@
+{
+  "user": [
+    {
+      "id": "1719895980407",
+      "name": "Arbaj",
+      "email": "arbajtank@gmail.com",
+      "password": "5572",
+      "number": "8511239404",
+      "status": "Unblock",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.XwQl1fgL8Sj_byE6Ca2xNQHaJQ&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "1719896066137",
+      "name": "mayur",
+      "email": "mayur180@gmail.com",
+      "password": "4040",
+      "number": "8511239404",
+      "status": "Unblock",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.-SAzaYZAT7-nCc7Y0XXvMQHaMQ&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "1719896140648",
+      "name": "prem",
+      "email": "prem@gmail.com",
+      "password": "1020",
+      "number": "8511239404",
+      "status": "Unblock",
+      "img": "https://tse1.mm.bing.net/th?id=OIP.1O0gEatuyr40CQJlOT6Q_QHaJj&pid=Api&P=0&h=180"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1714388268800",
+      "name": "pinalrathod",
+      "email": "pinalrathod@gmail.com",
+      "subject": "Women Clothes",
+      "comment": "Good quality of all products"
+    },
+    {
+      "id": "1714396543050",
+      "name": "Abrzz Tank",
+      "email": "arbajtank5572@gmail.com",
+      "subject": "Men Clothes",
+      "comment": "Very nice jeans."
+    },
+    {
+      "id": "1714403094284",
+      "name": "Vansh Shah",
+      "email": "VanshShah@gmail.com",
+      "subject": "Children Clothes",
+      "comment": "very nice fabric of clothes and also comfortable for children"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1714284158994",
+      "cate_name": "Men",
+      "cate_img": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEwL3Jhd3BpeGVsX29mZmljZV8zMl9wb3J0cmFpdF9vZl90aHJlZV9tZW5fd2VhcmluZ19jYXN1YWxfc3R5bGVfbV8yNTBkMTAyOS0zN2I1LTRmOWMtOGE1MC0zMWRkMmNmNDhiY2FfMS5qcGc.jpg"
+    },
+    {
+      "id": "1714284206737",
+      "cate_name": "Women",
+      "cate_img": "https://www.senseorient.com/wp-content/uploads/2021/05/Womens-Fashion-Dress-Code-senseorient-.jpeg"
+    },
+    {
+      "id": "1714284345741",
+      "cate_name": "Kid's",
+      "cate_img": "https://www.kidrovia.com/wp-content/uploads/2024/02/Kidrovia.png"
+    },
+    {
+      "id": "1715057955790",
+      "cate_name": "Beauty",
+      "cate_img": "https://m.media-amazon.com/images/G/31/img24/Fashion/AF/Flip/Springsummerflip/Halo/main/V1/beauty._SS300_QL85_FMpng_.png"
+    },
+    {
+      "id": "1715141349458",
+      "cate_name": "Jewellery",
+      "cate_img": "https://m.media-amazon.com/images/G/31/img24/Fashion/AF/Flip/Springsummerflip/Halo/main/V1/jewellery._SS300_QL85_FMpng_.png"
+    },
+    {
+      "id": "1715152246560",
+      "cate_name": "Bags",
+      "cate_img": "https://m.media-amazon.com/images/G/31/img24/Fashion/AF/Flip/Springsummerflip/Halo/main/V1/handbags._SS300_QL85_FMpng_.png"
+    }
+  ],
+  "product": [
+    {
+      "id": "1714372232837",
+      "product_name": "Checked Shirt with Roll-Up Sleeves",
+      "price": "240.00",
+      "size": "XL,S,L",
+      "cate_id": "1714284206737",
+      "img": "https://www.jiomart.com/images/product/original/443006718_yellow/checked-shirt-with-roll-up-sleeves-model-443006718_yellow-0-202301192115.jpg?im=Resize=(600,750)",
+      "img_2": "https://www.jiomart.com/images/product/original/443006718_yellow/checked-shirt-with-roll-up-sleeves-model2-443006718_yellow-2-202301192114.jpg?im=Resize=(600,750)"
+    },
+    {
+      "id": "1714372649699",
+      "product_name": "Solid Crepe V Neck Women's Top",
+      "price": "799.00",
+      "size": "XL,S,L",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h0a/hc1/28983558504478/A22LVT1168A_MAROON.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h19/h41/28983625678878/A22LVT1168A_MAROON_alt4.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1714372704683",
+      "product_name": " Round Neck Women's T-Shirt",
+      "price": "1189",
+      "size": "XL,S,L",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h45/h0f/32263997554718/S24LEVA39070024_PURPLE_alt5.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h65/h52/32264695611422/S24LEVA39070024_PURPLE_alt3.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1714372788038",
+      "product_name": "Printed V Neck Viscose Blend Women's Midi Dress",
+      "price": "799.00",
+      "size": "XL,S,L",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hfa/h36/29408103464990/S23346DR37_OFF_WHITE.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h29/haa/29408184270878/S23346DR37_OFF_WHITE_alt1.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1714373223239",
+      "product_name": "Printed Cotton Women's Casual Wear Shirt",
+      "price": "649.00",
+      "size": "S,M,L,XL",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hab/ha6/30993422155806/A23507SH327_GREEN_alt2.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h4a/h10/30993556439070/A23507SH327_GREEN.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1715410804969",
+      "product_name": "Floral V-Neck Georgette Women's Casual Wear Shirt",
+      "price": "810.00",
+      "size": "All Size",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h03/hab/31532674777118/MMYSHT328PSHT2_BLACK_N_WHITE_alt3.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h57/h11/31533856522270/MMYSHT328PSHT2_BLACK_N_WHITE.jpg_2000Wx3000H",
+      "quantity": null
+    },
+    {
+      "id": "1715597858371",
+      "product_name": "Floral Collared Satin Women's Casual Wear Shirt",
+      "price": "764",
+      "size": "All Size",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hb8/h6d/31229163012126/MC2376B_BLUE_alt2.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/hdb/h58/31237612863518/MC2376B_BLUE_alt1.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1714373294968",
+      "product_name": "Boys Brown and Beige Solid T-shirt and Capri Shorts Set",
+      "price": "1,349.00",
+      "size": "2-Year,3-Year,4-Year",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202403/40fd2c20-cc73-490a-bbee-61b0ff97c0db_full.jpg?version=1710833479498&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202403/1ac98b40-d6c5-41ab-b11c-b18c833d5051_full.jpg?version=1710833480300&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1714373392563",
+      "product_name": "Boys Multi Coloured Abstract Print Shirt and Shorts Set",
+      "price": "1,349.00",
+      "size": "2-Year,3-Year,4-Year",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202404/d2caacd2-0f5d-4dd8-aafa-ace8fc010f3a_full.jpg?version=1713445752240&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202404/0c26d4eb-16cd-4e9d-995a-a8e5c94eaf88_full.jpg?version=1713445754955&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1714373441710",
+      "product_name": "Boys White Graphic Print Jogger Set",
+      "price": "999.00",
+      "size": "2-Year,3-Year,4-Year",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202203/075e442a-7f8f-480d-a32f-6a4638543225_full.jpg?version=1648200459484&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202203/e371b87f-cf27-48d5-93bf-ae7c2f05ac00_full.jpg?version=1648200457893&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1714373495700",
+      "product_name": "Boys Multi Coloured Abstract Print Shirt and Shorts Set",
+      "price": "1,299.00",
+      "size": "6-7yY, 7-8Y, 8-9Y",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202404/b7bb86ca-6f56-4c93-84a4-43bbb0f58257_full.jpg?version=1712227102594&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202404/719557b7-149e-4c99-bb24-120d414da1a4_full.jpg?version=1712227103230&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1714373556951",
+      "product_name": "Girls Cream and Grey Polka Dot Print Blouse and Pants Set",
+      "price": "1,649.00",
+      "size": "2-Year,3-Year,4-Year",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202402/f5ed5746-f2a1-4d53-aa71-3f7ca2e33dd5_full.jpg?version=1709107341396&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202402/03263e0a-801b-4691-b6ef-00a7b61c1308_full.jpg?version=1709107343000&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1714373725523",
+      "product_name": "Girls White Solid Party Dress Looks like a princess",
+      "price": "1,689.00",
+      "size": "6-7yY, 7-8Y, 8-9Y",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202311/433b0505-4d45-40b0-a760-e67e2d716a77_full.jpg?version=1701353408321&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202311/3cef354c-10f6-48e6-8860-d2d54529d654_full.jpg?version=1701353409435&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1715600229779",
+      "product_name": "Girls Pink And Off-White Floral Applique Casual Dress",
+      "price": "1,499.00",
+      "size": "2-Year,3-Year,4-Year",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202404/976d02d9-6b69-43ad-9f85-0f58e16dc45b_full.jpg?version=1712072010594&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://static.hopscotch.in/fstatic/product/202404/6bb08f4d-bd70-4bab-8217-6bb2798f82d1_full.jpg?version=1712072012736&tr=w-1080,c-at_max,n-medium"
+    },
+    {
+      "id": "1715600431834",
+      "product_name": "Girls Navy Solid Blouse and Pants Set",
+      "price": "1,509.00",
+      "size": "2-Year,3-Year,4-Year",
+      "cate_id": "1714284345741",
+      "img": "https://static.hopscotch.in/fstatic/product/202403/ce3962c2-c741-4e8e-abae-d5892aa76039_full.jpg?version=1710513534228&tr=w-1080,c-at_max,n-medium",
+      "img_2": "https://img.lazcdn.com/g/p/02acc7615eaa893f611c48b25fa8b1be.jpg_720x720q80.jpg_.webp"
+    },
+    {
+      "id": "1715058682361",
+      "product_name": "Insight Cosmetics Color Rich Lipstick - Pink Show ",
+      "price": "165.00",
+      "size": "4.2 gm",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/974007/insight-cosmetics-color-rich-lipstick-pink-show-4-2-gm-prod-974007-0-202206131723.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/974007/insight-cosmetics-color-rich-lipstick-pink-show-4-2-gm-prod-974007-1-202206131723.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715060293618",
+      "product_name": "Lakme Lakme Color Crush Nail Art - G9 ",
+      "price": "165.00",
+      "size": " 6 Ml",
+      "cate_id": "1715057955790",
+      "img": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/original/949376/IA_aECrADo-949376_1.jpg?dpr=1",
+      "img_2": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/original/949376/x6jQW_pzV-949376_2.jpg?dpr=1"
+    },
+    {
+      "id": "1715061134014",
+      "product_name": "Blue Heaven Bling Matte + Metallic Eye Shadow Palette 12 in 1 Cocktail Fever ",
+      "price": "649.00",
+      "size": "22 gm",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/954719/blue-heaven-12-in-1-bling-eyeshadow-cocktail-fever-22-gm-prod-954719-0-202211141135.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/954719/blue-heaven-12-in-1-bling-eyeshadow-cocktail-fever-22-gm-prod-954719-1-202211141135.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715061562751",
+      "product_name": "Insight Cosmetics Stay Matte Liquid Foundation - Nude Beige ",
+      "price": "240.00",
+      "size": "30 ml",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/974063/insight-cosmetics-stay-matte-liquid-foundation-nude-beige-30-ml-prod-974063-0-202206131931.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/974063/insight-cosmetics-stay-matte-liquid-foundation-nude-beige-30-ml-prod-974063-1-202206131931.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715140650416",
+      "product_name": "Allure Set of 15 Rose Gold Brushes -RGK 15 1's",
+      "price": "2,999.00",
+      "size": "1 Set",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/1017369/allure-set-of-15-rose-gold-brushes-rgk-15-1-s-prod-1017369-0-202203281626.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/1017369/allure-set-of-15-rose-gold-brushes-rgk-15-1-s-prod-1017369-2-202203281626.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715140929192",
+      "product_name": "Insight Cosmetics Ultra-Thin Second Skin Long Wear Foundation - Warm Nude ",
+      "price": "230.00",
+      "size": "20 ml",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/974069/insight-cosmetics-ultra-thin-second-skin-long-wear-foundation-warm-nude-20-ml-prod-974069-0-202311091934.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/974069/insight-cosmetics-ultra-thin-second-skin-long-wear-foundation-warm-nude-20-ml-prod-974069-5-202311091934.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715765881965",
+      "product_name": "Maybelline New York's The Falsies Lash Lift Hydrofuge Mascara Very Black Waterproof ",
+      "price": "599.00",
+      "size": "8.6ml",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/1021332/maybelline-new-york-s-the-falsies-lash-lift-hydrofuge-mascara-very-black-waterproof-8-6ml-prod-1021332-0-202403260734.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/1021332/maybelline-new-york-s-the-falsies-lash-lift-hydrofuge-mascara-very-black-waterproof-8-6ml-prod-1021332-9-202403260734.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715766290924",
+      "product_name": "Maybelline New York Fit Me 12Hr Matte+Poreless Powder SPF28 PA+++ Oil Control Compact, 115 Ivory ",
+      "price": "269.00",
+      "size": "8gm",
+      "cate_id": "1715057955790",
+      "img": "https://www.jiomart.com/images/product/original/1020763/maybelline-new-york-fit-me-12hr-matte-poreless-powder-spf28-pa-oil-control-compact-115-ivory-8gm-prod-1020763-0-202403291110.jpg?im=Resize=(600,600)",
+      "img_2": "https://www.jiomart.com/images/product/original/1020763/maybelline-new-york-fit-me-12hr-matte-poreless-powder-spf28-pa-oil-control-compact-115-ivory-8gm-prod-1020763-9-202403291110.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715142605120",
+      "product_name": "Jewelry Set for Women, with Diamond Necklace , Earrings and Bracelet  ",
+      "price": "103.47",
+      "size": "Silver  ",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/81D6fFTNJuS._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/81SOibRL7yS._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715142968171",
+      "product_name": "Zealmer Sparkle Multicolor Rhinestone Stackable Stretch Bracelets for Women",
+      "price": "12.98",
+      "size": "M,XL,S  ",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/61zToEmR8iL._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/61eTEMHjETL._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715143330782",
+      "product_name": "Flower Pearl Brooches for Women - Flower Pearl Enamel Brooches Pins with Gold Tone - Great for Wife,Sisters,Friends,Daily Wear or Dating",
+      "price": "16.59",
+      "size": "One Size",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/71e7h517ovL._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/81BhWwrj7KL._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715143667482",
+      "product_name": "9 Colors Rhinestone Statement Earrings Big Teardrop Costume Earrings Formal Crystal Chandelier Drop Dangle Earrings for Women Girls",
+      "price": "12.98",
+      "size": "2pcs  ",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/81xHtq7ZgtL._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/71V7cQetP4L._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715144752179",
+      "product_name": "HSQYJ Vintage Bohemian Green Crystal Zircon Stacking Knuckle Ring Set Cute Geometry Rhinestone Midi Finger Rings Sets for Women Girls Jewelry Accessories",
+      "price": "9.89",
+      "size": " (5Pcs Gold Green)",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/617IeAOJNbL._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/51KtylR-LUL._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715146222336",
+      "product_name": "HSQYJ Fashion Color Crystal Jewelry Set Geometry Rectangle Pendant Rhinestone Necklace Rings and Drop Earrings for Women Ladies Gifts Gold Plated",
+      "price": "9.99",
+      "size": "5 Itom",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/71LRaZP1hoL._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/71Um6kWiWKL._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715771449679",
+      "product_name": "Kamirola Tiaras and Crowns for Women,Queen crown Tiaras Earrings Necklace, Crystal Bridal Jewelry Set, Costume Party Halloween Prom Pageant Jewelry for Women Girls",
+      "price": "34.99",
+      "size": " 4 Itom",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/71p5rtXPigL._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/81z1g5cQsNL._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715771868164",
+      "product_name": "Women's Ethnic Multi Colour Jhumka Party Festival Wear Jhumki Earring Peacock Crystal Traditional Bollywood Gypsy Long Tassel Bell Drop Earrings Boho Jewelry Gift Wedding Prom for Women Girls",
+      "price": "9.99",
+      "size": "One Size ",
+      "cate_id": "1715141349458",
+      "img": "https://m.media-amazon.com/images/I/61UFqiBA33L._AC_SY535_.jpg",
+      "img_2": "https://m.media-amazon.com/images/I/712XzEcYKLL._AC_SY535_.jpg"
+    },
+    {
+      "id": "1715164537902",
+      "product_name": "Luna Sling Wallet",
+      "price": "23.99",
+      "size": "Free Size",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/products/DSC09145copy_9c2f6f0a-01d9-4aa8-82fa-a0d4edac41d0.jpg?v=1644575546&width=720",
+      "img_2": "https://miraggiolife.com/cdn/shop/products/DSC04209.jpg?v=1698480087&width=720"
+    },
+    {
+      "id": "1715165010790",
+      "product_name": "Tiara Crossbody Bag",
+      "price": "49.99",
+      "size": "Free Size",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/files/DemexMiraggio24-11-2324536_5b06bc16-3ab0-46f8-b0d5-4a3b35ac910c.jpg?v=1701944107&width=720",
+      "img_2": "https://miraggiolife.com/cdn/shop/files/MPNov_2500_4bdc1ab5-3281-49c5-8b5c-93e39c987886.jpg?v=1701944107&width=720"
+    },
+    {
+      "id": "1715170214391",
+      "product_name": "ris Crossbody Bag",
+      "price": "19.99",
+      "size": "One Size",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/files/10_3ce5e1a7-9a6f-4095-8f05-4cc6820e7649.jpg?v=1709621182&width=540",
+      "img_2": "https://miraggiolife.com/cdn/shop/files/MP_3511_355f06f5-d8ae-4bcf-a0b5-f9b2e0387a6e.jpg?v=1709621182&width=540"
+    },
+    {
+      "id": "1716183069775",
+      "product_name": "Fionn Crossbody Bag",
+      "price": "202",
+      "size": "Small",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/products/10_15b77523-c569-433e-a392-00f33fc04099.jpg?v=1666179292&width=540",
+      "img_2": "https://miraggiolife.com/cdn/shop/products/UntitledCapture8904new_7e964b29-1e1d-4625-87ce-d5b764e50475.jpg?v=1664525264&width=540"
+    },
+    {
+      "id": "1716183240264",
+      "product_name": " Metal Buckle Crossbody Bag",
+      "price": "101",
+      "size": "Small",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/products/14_Adrianne_Divija_14c66900-05dd-455b-8c77-17fc5e84ec88.jpg?v=1666344186&width=540",
+      "img_2": "https://miraggiolife.com/cdn/shop/products/278_42a5ebff-2d40-456d-9ff3-bff8de639c4d.jpg?v=1633194146&width=540"
+    },
+    {
+      "id": "1716183400349",
+      "product_name": "Tokyo Handbag",
+      "price": "500.00",
+      "size": "Small",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/files/Miraggio0463_2.jpg?v=1686546244&width=720",
+      "img_2": "https://miraggiolife.com/cdn/shop/files/MiraggioProduct4865.jpg?v=1685432836&width=720"
+    },
+    {
+      "id": "1715153185385",
+      "product_name": "Lexi Clutch",
+      "price": "210.00",
+      "size": "Medium",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/products/Miraggio5968.jpg?v=1713262130&width=720",
+      "img_2": "https://miraggiolife.com/cdn/shop/products/MiraggioDay12036.jpg?v=1685336291&width=720"
+    },
+    {
+      "id": "1716183674733",
+      "product_name": "Camilla Denim Mini Bag",
+      "price": "105.00",
+      "size": "One Size",
+      "cate_id": "1715152246560",
+      "img": "https://miraggiolife.com/cdn/shop/files/DemexMiraggio24-11-2324209.jpg?v=1702024069&width=720",
+      "img_2": "https://miraggiolife.com/cdn/shop/files/MPNov_2423_b9f79348-84c8-4fbe-83fe-156977a30b27.jpg?v=1701942683&width=720"
+    },
+    {
+      "id": "1724237716760",
+      "product_name": "Solid Tencel Slim Fit Men's Casual Shirt",
+      "price": "750",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h34/h11/30726031573022/A23FSOLTEN111TB_TOBACCO.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h86/he3/30725241241630/A23FSOLTEN111TB_TOBACCO_alt2.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724237829211",
+      "product_name": "Solid Cotton Slim Fit Men's Casual Wear Shirt",
+      "price": "2499",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h69/h75/31954243518494/S24UDSHT0916WHI_WHITE.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/ha2/h60/31954114674718/S24UDSHT0916WHI_WHITE_alt3.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724237930066",
+      "product_name": "Printed Collared Viscose Men's Shirt",
+      "price": "2299",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hf2/h03/31638288597022/A23FABSTDBLACK_BLACK.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/hab/h45/31638221914142/A23FABSTDBLACK_BLACK_alt3.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724238301202",
+      "product_name": "Mid Wash Cotton Lycra Tapered Fit Men's Jeans",
+      "price": "1000",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h36/h5d/30980188143646/AW23LFVNTCFIN26_INDIGO.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/hcc/hab/30980314529822/AW23LFVNTCFIN26_INDIGO_alt1.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724238421401",
+      "product_name": "Solid Blended Fabric Slim Fit Men's Shorts",
+      "price": "850",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h6b/h94/32188954804254/S24LCBSRIC302BE_BEIGE_alt1.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h5b/he8/32188990029854/S24LCBSRIC302BE_BEIGE.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724238518722",
+      "product_name": "Solid Cotton Regular Fit Men's Joggers",
+      "price": "650",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hf6/h0e/31827464454174/S24STJG007BK_BLACK.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h8b/h5a/31827557482526/S24STJG007BK_BLACK_alt1.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724238618413",
+      "product_name": "Solid Poplin Regular Fit Men's Kurta",
+      "price": "1110",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hef/h8a/31828801814558/IFK075-A_WHITE.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/hba/he9/31828739555358/IFK075-A_WHITE_alt1.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724238749946",
+      "product_name": "Cotton Button Closure Regular Fit Men's Casual Wear Jacket",
+      "price": "3500",
+      "size": "L,M,XL",
+      "cate_id": "1714284158994",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/h7b/h39/32558535082014/SS24JJ216782101_BLACK.jpg_2000Wx3000H",
+      "img_2": "https://sslimages.shoppersstop.com/sys-master/images/h49/hfd/32558744403998/SS24JJ216782101_BLACK_alt1.jpg_2000Wx3000H"
+    },
+    {
+      "id": "1724238876142",
+      "product_name": "Floral V-Neck Georgette Women's Casual Wear Shrug",
+      "price": "855",
+      "size": "L,M,XL",
+      "cate_id": "1714284206737",
+      "img": "https://sslimages.shoppersstop.com/sys-master/images/hcd/h3b/32156872933406/MMYRSHG116PSHG4_ORANGE.jpg_2000Wx3000H",
+      "img_2":"https://sslimages.shoppersstop.com/sys-master/images/hb2/h70/32277747204126/MMYRSHG116PSHG4_ORANGE_alt6.jpg_2000Wx3000H  "
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "arbaj",
+      "email": "arbajtank@gmail.com",
+      "password": "1234",
+      "mobile": "9898650487",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.XwQl1fgL8Sj_byE6Ca2xNQHaJQ&pid=Api&P=0&h=180",
+      "status": "Unblock"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1719034600374",
+      "blog_img": "https://themewagon.github.io/malefashion/img/blog/blog-2.jpg",
+      "blog_title": "Eternity Bands Do Last Forever",
+      "blog_date": "2020-02-21",
+      "description": "Latest Trends Of Wearing Street Wears Supremely"
+    },
+    {
+      "id": "1719034778213",
+      "blog_img": "https://themewagon.github.io/malefashion/img/blog/blog-5.jpg",
+      "blog_title": "Jewellery",
+      "blog_date": "2020-09-08",
+      "description": "Wedding Rings A Gift For A Lifetime"
+    },
+    {
+      "id": "1719034891936",
+      "blog_img": "https://themewagon.github.io/malefashion/img/blog/blog-4.jpg",
+      "blog_title": "Man's Clothes",
+      "blog_date": "2023-06-15",
+      "description": "Aiming For Higher The Mastopexy"
+    },
+    {
+      "id": "1719035045858",
+      "blog_img": "https://themewagon.github.io/malefashion/img/blog/blog-9.jpg",
+      "blog_title": "All Category",
+      "blog_date": "2024-02-05",
+      "description": "New collection Coming Soon Are You Ready"
+    },
+    {
+      "id": "1719035386473",
+      "blog_img": "https://themewagon.github.io/malefashion/img/blog/blog-6.jpg",
+      "blog_title": "Man's style",
+      "blog_date": "2023-12-24",
+      "description": "The Different type Of Man's Pants are coming soon"
+    },
+    {
+      "id": "1719035592033",
+      "blog_img": "https://themewagon.github.io/malefashion/img/blog/blog-8.jpg",
+      "blog_title": "For Man and Child",
+      "blog_date": "2024-04-11",
+      "description": "New Trendly T-shirt's Are You Ready"
+    }
+  ]
+}
